@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Prajnesh Kumar
+# 👋 Hi, I'm Prajnesh Kumar
 
 🎓 I completed my **Computer Science Engineering** at  
 **Sahyadri College of Engineering and Management,Mangalore** 🏫
