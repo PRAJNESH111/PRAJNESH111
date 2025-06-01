@@ -6,7 +6,7 @@
 💻 I did a **Full-Stack Development Internship** at  
 **Thaniya Technologies** 🚀
 
-🔗 Connect with me on [![LinkedIn]() 
+🔗 Connect with me on ([![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajnesh-kumar-593560331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 
 📌 I’m passionate about building cool web apps, solving real-world problems, and learning new technologies every day! 🌱
 
