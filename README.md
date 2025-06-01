@@ -3,8 +3,7 @@
 🎓 I completed my **Computer Science Engineering** at  
 **Sahyadri College of Engineering and Management,Mangalore** 🏫
 
-💻 I did a **Full-Stack Development Internship** at  
-**Thaniya Technologies** 🚀
+💻 **Aspiring MERN Full-stack Developer** 🚀
 
 🔗 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajnesh-kumar-593560331)
 
@@ -12,7 +11,7 @@
 
 🌐 Tech I work with:
 - React ⚛️ | Node.js 🌐 | MongoDB 🍃 | Express 🚂
-- HTML5 🧱 | CSS3 🎨 | JavaScript 🟨  | TailwindCSS
+- HTML5 🧱 | CSS3 🎨 | JavaScript 🟨  | TailwindCSS 🎨
 - Git 🔧 | GitHub 🐙
 
 
