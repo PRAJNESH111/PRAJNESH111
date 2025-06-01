@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Prajnesh!
 
+🎓 I completed my **Computer Science Engineering** at  
+**Sahyadri College of Engineering and Management** 🏫
 
-**PRAJNESH111/PRAJNESH111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I did a **Full-Stack Development Internship** at  
+**Thaniya Technologies** 🚀
 
-Here are some ideas to get you started:
+🔗 Connect with me on [![LinkedIn](https://www.linkedin.com/in/prajnesh-kumar-593560331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📌 I’m passionate about building cool web apps, solving real-world problems, and learning new technologies every day! 🌱
+
+🌐 Tech I work with:
+- React ⚛️ | Node.js 🌐 | MongoDB 🍃 | Express 🚂
+- HTML5 🧱 | CSS3 🎨 | JavaScript 🟨
+- Git 🔧 | GitHub 🐙
+
+📫 Reach me at: **prajneshk2001@gmail.com**
+
+<!-- Optional: add GitHub stats or streaks -->
+
 
