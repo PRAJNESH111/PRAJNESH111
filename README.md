@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Prajnesh Kumar
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Prajnesh+Kumar;Full+Stack+Developer;Python+%7C+MERN+Stack+%7C+IoT)](https://git.io/typing-svg)
+
 
 🎓 I completed my **Computer Science Engineering** at  
 **Sahyadri College of Engineering and Management,Mangalore** 🏫
