@@ -11,7 +11,7 @@
 📌 I’m passionate about building cool web apps, solving real-world problems, and learning new technologies every day! 🌱
 
 🌐 Tech I work with:
-- React ⚛️ | Node.js 🌐 | MongoDB 🍃 | Express 🚂
+- React ⚛️ | Node.js 🌐 | MongoDB 🍃 | Express 🚂 | JDBC 📊 | Spring Boot ♨️
 - HTML5 🧱 | CSS3 🎨 | JavaScript 🟨  | TailwindCSS 🎨
 - Git 🔧 | GitHub 🐙
 
