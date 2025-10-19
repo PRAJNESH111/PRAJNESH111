@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFD700&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+PRAJNESH+KUMAR;Full+Stack+Developer;Spring+Boot+%7C+MERN+Stack+%7C+IoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFD700&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+PRAJNESH+KUMAR;Spring+Boot+%7C+MERN+Stack+%7C+IoT)](https://git.io/typing-svg)
 
 
 🎓 I completed my **Computer Science Engineering** at  
